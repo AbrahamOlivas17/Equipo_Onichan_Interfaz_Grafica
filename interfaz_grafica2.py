@@ -7,7 +7,7 @@ import math
 import time
 
 # --- CONFIGURACIÓN DE RED ---
-SERVER_IP = "10.34.23.233"
+SERVER_IP = "127.0.0.1"
 SERVER_PORT = "5000"
 BASE_URL = f"http://{SERVER_IP}:{SERVER_PORT}"
 
